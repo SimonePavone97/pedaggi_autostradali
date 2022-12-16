@@ -4,3 +4,4 @@ Santhia;Magenta
 Bologna;Magenta
 Santhia;Rho
 Chivasso;Venezia
+Ciao;Ciao
